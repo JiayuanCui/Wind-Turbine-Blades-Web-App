@@ -16,10 +16,12 @@ st.set_page_config()
 
 st.title('Capstone')
 st.markdown("""
-Description ....
+Description:
+This dynamic dashboard is the visulization tool for the estimation of the different windmills farms located in the New York State. We have implemented Machine Learning Statistical 
+model which predicts and calculates how much the Green House Emission is effected if any wind turbine project is decommisioned
 
 
-**Data source:** link
+**Data source:** https://github.com/virslaan/Wind-Turbine-Blades-CUCP/blob/main/streamlit%20app/Large-scale_Renewable_Projects_Reported_by_NYSERDA__Beginning_2004.csv
 """)
 
 # load the data
