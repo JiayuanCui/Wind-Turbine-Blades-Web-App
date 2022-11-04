@@ -21,7 +21,7 @@ This dynamic dashboard is the visulization tool for the estimation of the differ
 model which predicts and calculates how much the Green House Emission is effected if any wind turbine project is decommisioned
 
 
-**Data source:** https://github.com/virslaan/Wind-Turbine-Blades-CUCP/blob/main/streamlit%20app/Large-scale_Renewable_Projects_Reported_by_NYSERDA__Beginning_2004.csv
+**Data source:** <a href="https://github.com/virslaan/Wind-Turbine-Blades-CUCP/blob/main/streamlit%20app/Large-scale_Renewable_Projects_Reported_by_NYSERDA__Beginning_2004.csv">Dataset 1 for maps</a>
 """)
 
 # load the data
