@@ -13,16 +13,20 @@ st.set_page_config()
 
 st.title('Staying Ahead of Renewable Energy Curve and Analysis on Reusable Blades')
 st.markdown("""
-Our project is a proactive approach to finding more sustainable end-of-life alternatives compared to landfill and incineration.
-NYC Town+Gown has identified several locations that want to reuse wind turbine blades to improve their own facilities. 
+By 2030, New York state targets to generate more than 70% of its electricity from renewable energy sources, 
+thus increasing siting wind farms across the state. Even though most parts of wind turbines are easy to recycle, 
+blades are among the most difficult components to reintegrate into material circularity because of their composite structures. 
+This project is a proactive approach to finding more sustainable end-of-life alternatives for blades compared to 
+landfill and incineration. More specifically, we aim to develop a plan to support future reuse of decommissioned wind turbine blades 
+in New York and design a geographical model to minimize additional GHG emissions from transportation. 
+To help stakeholders make informed decisions on where to send decommissioned blades, we establish GHG boundaries around wind farms, 
+identify reuse locations within the boundaries, and build a model to estimate GHG emissions from transporting the blades.
 
-We will indirectly drive impact for the following by allocating retired turbine blades:
+NYC Town+Gown has identified several locations that want to reuse wind turbine blades to improve their own facilities. We will indirectly drive impact for the following by allocating retired turbine blades:
 1. Public Parks
 2. Modern Art Enthusiasts
 3. Port Authorities
 4. Fiberglass Manufacturers
-
-Our primary goal is to find the optimal reuse location for decommissioned windmill blades. 
 """)
 
 # load the data function
