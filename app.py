@@ -289,8 +289,7 @@ folium.Circle(
     radius = float(df_selected2['ghg_radius_m']),
     color='crimson',
     fill=True,
-    fill_color='crimson',
-    popup = folium.Popup(df_selected2["p_name"], min_width=250, max_width=250)
+    fill_color='crimson'
     ).add_to(group0)
 group0.add_to(map)
 
