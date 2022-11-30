@@ -280,7 +280,7 @@ df_selected2 = df3.loc[df3.p_name == option2]
 location = float(df_selected2.latitude),float(df_selected2.longitude)
 
 # create GHG circle map
-map = folium.Map(location, zoom_start=7, control_scale=True)
+map = folium.Map(location, zoom_start=13, control_scale=True)
 
 # plot the GHG radius circle chose
 group0 = folium.FeatureGroup(name='<span style=\\"color: crimson;\\">Wind Farm GHG Circles</span>')
