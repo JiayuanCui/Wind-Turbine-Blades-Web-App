@@ -120,7 +120,7 @@ st.markdown("------------------------------------")
 st.header("Turbine Re-use Analysis within GHG Boundaries")
 st.markdown(
     """
-    The map provides a GHG radius around each wind farm to identify a boundary within which the blades 
+    The map provides a greenhouse gas (GHG) radius around each wind farm to identify a boundary within which the blades 
     will be transported to. Since turbine blades are very difficult to recycle, most of the decommissioned blades 
     will be cut into segments and sent to landfills. Given the massive sizes and weights of the blades, 
     a large portion of the GHG emissions will be produced by transporting them. As a result, landfills are used to identify the boundaries.
