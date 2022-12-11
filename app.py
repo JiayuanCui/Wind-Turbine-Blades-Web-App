@@ -131,7 +131,7 @@ st.markdown(
     """
     For each wind farm, we want to design a reuse plan for the turbine blades so that local and state government agencies 
     can use them as resources to build public facilities. 
-    **NYS Parks**
+    \n**NYS Parks**
     \nFor public facilities, such as benches, bridges, and art statues.
     \n**NYS Thruway Authority for sound barriers**
     \nCapital Program: for the safety of the traveling public it is necessary to rehabilitate, 
