@@ -136,7 +136,7 @@ st.markdown(
     \n**NYS Thruway Authority for sound barriers**
     \nCapital Program: for the safety of the traveling public it is necessary to rehabilitate, 
     replace or improve certain components of the Thruway’s aging infrastructure.
-    \n**Other potential uses**:
+    \n**Other potential uses**
     \n* City and town government re-uses with a focus on parks
     \n* County government re-uses with a focus on parks
     \n* New York State highways/roads for sound barriers
